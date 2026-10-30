@@ -1,0 +1,3 @@
+pycaw>=20240316
+comtypes>=1.4
+pyinstaller>=6.0
